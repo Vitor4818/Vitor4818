@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vitor Gomes!
+## Olá! Eu sou Vitor Gomes!
 
 
 📚 1º Semestre em Análise e Desenvolvimento de Sistemas na Fiap <br>
