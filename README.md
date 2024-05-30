@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vitor Gomes!
 
 
-📚 2º Semestre em Análise e Desenvolvimento de Sistemas na Fiap <br>
+📚 1º Semestre em Análise e Desenvolvimento de Sistemas na Fiap <br>
 📚 Curso de técnico em informática no CEAP<br>
 🚀 Aprendendo Desenvolvimento web<br>
 💭 "O aprendizado nunca esgota a mente." — Leonardo da Vinci<br>
