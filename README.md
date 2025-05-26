@@ -9,16 +9,31 @@
 
 
 
+
+
+
+
 <div style="display: inline_block" align="center"><br>
-  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/873/873107.png">
-  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png">
-  <img style="margin-left: 10px;" align="center" alt="CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img style="margin-left: 10px;" align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img style="margin-left: 10px;" align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+  <!-- Back-End -->
+  <img style="margin-left: 10px;" align="center" alt="Java" height="50" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img style="margin-left: 10px;" align="center" alt="Spring" height="50" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
+  <img style="margin-left: 10px;" align="center" alt=".NET" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img style="margin-left: 10px;" align="center" alt="Oracle" height="50" width="50"
+    src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img style="margin-left: 10px;" align="center" alt="Python" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img style="margin-left: 10px;" align="center" alt="Jupyter" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
+  <img style="margin-left: 10px;" align="center" alt="Power BI" height="40" width="50"
+    src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png">
+  <img style="margin-left: 10px;" align="center" alt="React" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
+  <img style="margin-left: 10px;" align="center" alt="Git" height="50" width="50"
+    src="https://cdn-icons-png.flaticon.com/512/873/873107.png">
 
 </div>
 
